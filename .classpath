@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/json-lib-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mina-core-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mina-filter-compression-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mina-integration-beans-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mina-integration-jmx-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mina-integration-ognl-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mina-integration-xbean-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mina-statemachine-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mina-transport-apr-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-5.1.25.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/quartz-all-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-jdk14-1.5.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ezmorph-1.0.6.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
